@@ -4,6 +4,7 @@ export default function Document(){
     return(
         <Html className={"dark"}>
             <Head>
+                <title>Sherif Zaher</title>
             </Head>
             <body>
             <Main />
